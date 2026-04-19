@@ -26,3 +26,4 @@ F:\UCZELNIA\JetBrains Rider 2025.3.4\APBD-Cw2-s27746\LinqConsoleLab.PL\obj\Debug
 F:\UCZELNIA\JetBrains Rider 2025.3.4\APBD-Cw2-s27746\LinqConsoleLab.PL\obj\Debug\net9.0\LinqConsoleLab.PL.pdb
 F:\UCZELNIA\JetBrains Rider 2025.3.4\APBD-Cw2-s27746\LinqConsoleLab.PL\obj\Debug\net9.0\LinqConsoleLab.PL.genruntimeconfig.cache
 F:\UCZELNIA\JetBrains Rider 2025.3.4\APBD-Cw2-s27746\LinqConsoleLab.PL\obj\Debug\net9.0\ref\LinqConsoleLab.PL.dll
+F:\UCZELNIA\JetBrains Rider 2025.3.4\APBD-Cw2-s27746\LinqConsoleLab.PL\obj\Debug\net9.0\LinqConsoleLab.PL.sourcelink.json

@@ -1,0 +1,15 @@
+F:\UCZELNIA\JetBrains Rider 2025.3.4\APBD-Cw2-s27746\LinqConsoleLab.PL\bin\Debug\net10.0\LinqConsoleLab.PL.exe
+F:\UCZELNIA\JetBrains Rider 2025.3.4\APBD-Cw2-s27746\LinqConsoleLab.PL\bin\Debug\net10.0\LinqConsoleLab.PL.deps.json
+F:\UCZELNIA\JetBrains Rider 2025.3.4\APBD-Cw2-s27746\LinqConsoleLab.PL\bin\Debug\net10.0\LinqConsoleLab.PL.runtimeconfig.json
+F:\UCZELNIA\JetBrains Rider 2025.3.4\APBD-Cw2-s27746\LinqConsoleLab.PL\bin\Debug\net10.0\LinqConsoleLab.PL.dll
+F:\UCZELNIA\JetBrains Rider 2025.3.4\APBD-Cw2-s27746\LinqConsoleLab.PL\bin\Debug\net10.0\LinqConsoleLab.PL.pdb
+F:\UCZELNIA\JetBrains Rider 2025.3.4\APBD-Cw2-s27746\LinqConsoleLab.PL\obj\Debug\net10.0\LinqConsoleLab.PL.GeneratedMSBuildEditorConfig.editorconfig
+F:\UCZELNIA\JetBrains Rider 2025.3.4\APBD-Cw2-s27746\LinqConsoleLab.PL\obj\Debug\net10.0\LinqConsoleLab.PL.AssemblyInfoInputs.cache
+F:\UCZELNIA\JetBrains Rider 2025.3.4\APBD-Cw2-s27746\LinqConsoleLab.PL\obj\Debug\net10.0\LinqConsoleLab.PL.AssemblyInfo.cs
+F:\UCZELNIA\JetBrains Rider 2025.3.4\APBD-Cw2-s27746\LinqConsoleLab.PL\obj\Debug\net10.0\LinqConsoleLab.PL.csproj.CoreCompileInputs.cache
+F:\UCZELNIA\JetBrains Rider 2025.3.4\APBD-Cw2-s27746\LinqConsoleLab.PL\obj\Debug\net10.0\LinqConsoleLab.PL.sourcelink.json
+F:\UCZELNIA\JetBrains Rider 2025.3.4\APBD-Cw2-s27746\LinqConsoleLab.PL\obj\Debug\net10.0\LinqConsoleLab.PL.dll
+F:\UCZELNIA\JetBrains Rider 2025.3.4\APBD-Cw2-s27746\LinqConsoleLab.PL\obj\Debug\net10.0\refint\LinqConsoleLab.PL.dll
+F:\UCZELNIA\JetBrains Rider 2025.3.4\APBD-Cw2-s27746\LinqConsoleLab.PL\obj\Debug\net10.0\LinqConsoleLab.PL.pdb
+F:\UCZELNIA\JetBrains Rider 2025.3.4\APBD-Cw2-s27746\LinqConsoleLab.PL\obj\Debug\net10.0\LinqConsoleLab.PL.genruntimeconfig.cache
+F:\UCZELNIA\JetBrains Rider 2025.3.4\APBD-Cw2-s27746\LinqConsoleLab.PL\obj\Debug\net10.0\ref\LinqConsoleLab.PL.dll
